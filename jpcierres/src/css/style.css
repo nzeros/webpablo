@@ -1,0 +1,36 @@
+
+
+
+body {
+    background-image: url(/src/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:aliceblue;
+}
+
+.container-ancho {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+    background-color: aliceblue;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.986) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+.nav-item a{
+    font-size: 23px;
+}
+
+p{
+    font-size: 20px;
+}
+
+nav {
+    padding-bottom: 50px;
+}
+
+.nav-link{
+    margin-right: 25px;
+}
+
